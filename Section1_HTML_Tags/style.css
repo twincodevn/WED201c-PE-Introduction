@@ -18,7 +18,10 @@
     color: red;
     
 } */
-
+.link_hover:visited{
+    background-color: red;
+    color: red;
+}
 .table_class{
     background-color: red;
 }
