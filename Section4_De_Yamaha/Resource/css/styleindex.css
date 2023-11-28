@@ -1,0 +1,107 @@
+.logo{
+    width: 30%;
+    margin-left: 100px;
+}
+
+.content-header-div1{
+    margin-top:80px;
+    padding-left: 200px;
+    color:red;
+    font-style: italic;
+}
+
+.content-header-div3{
+    margin-top: 90px;
+    padding-right: 55px;
+}
+.div-images{
+    margin: 0 25%;
+}
+.menu{
+    margin: 0 30%;
+}
+.description h1{
+    color:aqua;
+    
+}
+
+
+
+
+.parent-item-2{
+    padding-top: 45px;
+}
+
+.best-title h1{
+    color:aqua;
+}
+.p30{
+    padding: 0 30px;
+}
+
+.orange{
+    color:rgb(255, 94, 0);
+}
+
+.div2{
+    padding: 0px 150px;
+}
+
+.div3 img{
+    width: 60%;
+}
+.div4{
+    text-align:justify;
+}
+
+.div5{
+    padding: 0 165px;
+}
+
+.footer{
+    background-color:rgb(16, 155, 155);
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 10px;
+    color: #fff;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+    .content-header-div1{
+        margin-top: 0;
+        padding-left: 116px;
+    }
+
+    .content-header-div3{
+        margin-top: 18px;
+        padding-right: 20px;
+        padding-left: 29px;
+    }
+    .header{
+        margin-right: 0;
+    }
+
+    .div6{
+        padding-left: 50px;
+    }
+    
+    .parent-item-2{
+        margin: 0 10px;
+        padding: 0 93px 0 0;
+        width: 150%;
+    }
+
+    .div2{
+        padding: 0 15px;
+    }
+
+    .div3 img{
+        width: 80%;
+    }
+
+    .div5{
+        padding: 0 15px;
+    }
+  }
