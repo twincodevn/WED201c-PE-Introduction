@@ -1,0 +1,112 @@
+.flex-sa{
+    display: flex;
+    justify-content: space-around;
+}
+.flex{
+    display: flex;
+   
+}
+.img-full-width{
+    max-width: 100%;
+}
+.logo{
+    padding-left: 35%;
+}
+.logo img{
+    width: 25%;
+}
+.content{
+    color: orange;
+    font-size: 20px;
+}
+.banner{
+    width: 50%;
+}
+.banner img{
+    width:100%;
+}
+.register{
+    width: 30%;
+    margin-left: 50px;
+}
+.item{
+    padding: 10px 0px;
+    display: flex;
+    justify-content: space-between;
+    height: 35px;
+}
+.ass{
+    font-size: 20px;
+}
+.ass p {
+    width: 72%;
+}
+.content h1{
+    text-align: center;
+}
+.img-a{
+    margin-right: 25px;
+}
+.price{
+    color: orange;
+}
+.cmt{
+    height: 145px;
+}
+.item input{
+    width: 100%;
+    margin-right: 10%;
+}
+.item select{
+    width: 100%;
+    margin-right: 10%;
+}
+.item textarea{
+    width: 100%;
+    margin-right: 10%;
+}
+.w40{
+    width: 40%;
+}
+.title{
+    text-align: center;
+    color: red;
+}
+.c{
+    width:116%;
+    font-size: 20px;
+}
+.c p{
+    width: 90%;
+    font-weight: 100;
+}
+.day{
+    margin-top:100px;
+}
+.b{
+    color:rgb(11, 88, 204);
+}
+.btn{
+    margin-top: 30%;
+    margin-left: 40%;
+}
+.img-r{
+    margin-right: 20px;
+}
+.btn input{
+    color: white;
+    background: orange;
+    border: solid 1px;
+    width: 100px;
+    height: 50px;
+    
+    
+}
+.footer{
+    color: white;
+    background-color: rgb(62, 117, 199);
+    text-align: center;
+    padding: 15px;
+    margin-top: 15px;
+    font-size: 20px;
+}
